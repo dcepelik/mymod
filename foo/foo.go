@@ -1,3 +1,3 @@
 package foo
 
-import "github.com/dcepelik/mymod/v2"
+import _ "github.com/dcepelik/mymod/v2"
